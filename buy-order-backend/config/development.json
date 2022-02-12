@@ -1,0 +1,5 @@
+{
+    "name": "Server Developement",
+    "database": "mongodb://localhost:27017/narrative_db",
+    "port": 3000
+}
